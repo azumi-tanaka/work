@@ -1,1 +1,62 @@
-people: []
+people:
+  - id: tanaka
+    name: 田中 梓美
+    call: 田中さん
+    org: 株式会社口コミ広場
+    note: 本人
+  - id: ishii
+    name: 石井 俊
+    call: 石井さん
+    org: 社内
+    note: 愛知マリアの引き継ぎ元。コンサル・口コミ広場運営でもよく一緒
+  - id: kawasaki
+    name: 川崎 誠士
+    call: 川崎さん
+    org: 社内
+    role: エンジニア
+    note: 日報・Claude の環境づくりの相談相手
+  - id: takahashi
+    name: 高橋 大和
+    call: 高橋さん
+    org: 社内
+    note: 営業・広告・SNS
+  - id: mikami
+    name: 三上 高央
+    call: 三上さん
+    org: 社内
+    role: 専務執行役員
+  - id: yamamoto
+    name: 山本 美仁
+    call: 山本さん
+    org: 社内
+    note: 経営企画
+  - id: kohata-maria
+    name: 木幡 亮太郎
+    call: 木幡さん
+    org: マリアクリニック
+    contact: メール
+  - id: ito-maria
+    name: 伊藤
+    call: 伊藤 GM
+    org: マリアクリニック
+    role: GM
+    contact: メール
+    note: 請求書・LP・キャンペーンの話
+  - id: morita-eac
+    name: 森田 美幸
+    call: 森田さん
+    org: 株式会社イーエーシー
+    contact: メール
+    note: マリアクリニックのサイトの移管先
+  - id: kashiwabara-ks
+    name: 柏原 知幸
+    call: 柏原さん
+    org: KS経営労務
+    contact: メール
+    note: 出向の社会保険・給与
+  - id: paku-mihara
+    name: 朴 鐘賢
+    call: 朴さん
+    org: 銀座みはら法律事務所
+    contact: メール
+    note: 出向契約書のリーガルチェック

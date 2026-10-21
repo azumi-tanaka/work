@@ -1,1 +1,23 @@
-projects: []
+projects:
+  - slug: client-aichi-maria
+    name: 愛知マリアクリニック
+    status: active
+    started: 2026-10-21
+    note: サイトの改修・運用と、イーエーシーへのサイト移管。石井さんから引き継ぎ
+  - slug: kuchikomi-unei
+    name: 口コミ広場の運営
+    status: active
+    started: 2026-10-21
+  - slug: kuchikomi-keiei
+    name: 口コミ広場の経営企画
+    status: active
+    started: 2026-10-21
+  - slug: shinki-web-consul
+    name: Web コンサル事業の立ち上げ
+    status: active
+    started: 2026-10-21
+    note: 医療クリニック特化の Web コンサル
+  - slug: roumu-shukko
+    name: 在籍出向の手続き
+    status: active
+    started: 2026-10-21
