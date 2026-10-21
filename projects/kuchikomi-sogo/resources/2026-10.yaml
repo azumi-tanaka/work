@@ -1,0 +1,61 @@
+resources:
+  - title: "営業案件ヨミ表"
+    url: https://docs.google.com/spreadsheets/d/1GQA-BoxghNH0WdQpiaQkn90Z_cpgeq4gwujasuBjcQY/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 週次営業 MTG で使う案件のヨミ表
+  - title: "課題内容"
+    url: https://docs.google.com/spreadsheets/d/1kz5kXwesNL_bD7hL9IKlwlEZrYFlDRGFkbEMztQHnqA/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 週次営業 MTG の課題の一覧
+  - title: "LINE運用管理シート"
+    url: https://docs.google.com/spreadsheets/d/1bt5vhkQT-JhZXtYQNkJqR5RqFKti6NT38HmiIYQl8m0/edit
+    kind: sheet
+    added: 2026-10-21
+    note: LINE 運用の管理（銘苅さんが更新）
+  - title: "【口コミ広場】サービス改善アンケート(202411)"
+    url: https://docs.google.com/forms/d/17urKcs34MpUkO-6GUCNwzwo56aqYy_xyQk1eBXSE5Sg/edit
+    kind: drive
+    added: 2026-10-21
+    note: サービス改善アンケートのフォーム
+  - title: "プラン登録：確認用"
+    url: https://docs.google.com/spreadsheets/d/1dGXudk3nvIH5ZUo78pn_MT7JLm6MPfIgR-nzHMSdYA8/edit
+    kind: sheet
+    added: 2026-10-21
+    note: プラン登録の確認表（石井さんが更新）
+  - title: "口コミ広場施策分析"
+    url: https://docs.google.com/spreadsheets/d/1KVrB5g9cgXkvi5228kctxUIoiu-WCpXRXinPAoUIzdg/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 口コミ広場アンケートの過去シート（石井さんが共有）
+  - title: "媒体資料 ver2.0"
+    url: https://docs.google.com/presentation/d/1Sb90KHSb2VnhFLfbBm3-5ZoIpMeFG3V2JtM_ppFhZEs/edit
+    kind: slide
+    added: 2026-10-21
+    note: 口コミ広場の媒体資料
+  - title: "ユーザーアンケート設問一覧 2026年10月"
+    url: https://docs.google.com/spreadsheets/d/1qquulmYe2j0F2dzRpIVoHz49AJYFZRe7BdJcAxfBTf4/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 今月のユーザーアンケートの設問
+  - title: "エンジニア週報 2026-W42"
+    url: https://docs.google.com/document/d/1oE5CIzMwGsUdnbtWC2osfC1Rws717rtAv_yAnTs8LW4/edit
+    kind: doc
+    added: 2026-10-21
+    note: 経営企画チームに共有されたエンジニアの週報
+  - title: "システム部門の計画"
+    url: https://docs.google.com/document/d/1HqqkdZz7x_Aa8tQhGRSuGnqEawkHG-zH3z83Gm7XsEg/edit
+    kind: doc
+    added: 2026-10-21
+    note: 経営企画チームに共有されたシステム部門の計画
+  - title: "歯科無料掲載リスト"
+    url: https://docs.google.com/spreadsheets/d/1T-mSt8YcPVs6_TIxBVxX3AXDbQ1DmoVxeMDFw-ZHGhM/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 野村さんが共有した歯科の無料掲載リスト
+  - title: "【2026-10-18】テレアポリスト（美容クリニック）"
+    url: https://docs.google.com/spreadsheets/d/19bySUES2IJlWD8x_pgcivfRDVRKId41RR4U2NAIpGJU/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 美容クリニックのテレアポ先（川崎さんが共有）

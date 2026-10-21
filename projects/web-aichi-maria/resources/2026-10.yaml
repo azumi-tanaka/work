@@ -1,0 +1,41 @@
+resources:
+  - title: 愛知マリア 案件管理シート（案件概要）
+    url: https://docs.google.com/spreadsheets/d/1la9P7xEjnXjPJWDeKXVBHLFuWLTQuwUoS5pNRjvLkzA/edit
+    kind: sheet
+    added: 2026-10-21
+    note: 愛知マリアの案件の管理表。ED 愛知県版 LP の完了日・担当、契約・担当の欄がある（ChatGPT の会話より・未確認）
+  - title: "マリアクリニック様：引き継ぎ事項"
+    url: https://docs.google.com/document/d/1io-H2NsMF_9knvpbpI-bs0Qr96UKGMWDQNYEs6dxmL0/edit
+    kind: doc
+    added: 2026-10-21
+    note: 石井さんからの引き継ぎ事項（10/20 作成）
+  - title: "②二重切開／③目頭切開 修正依頼"
+    url: https://docs.google.com/presentation/d/1GOvKCU4pihZdvD4Yl5fovps1NbrLQT9aPbEilJGBFcA/edit
+    kind: slide
+    added: 2026-10-21
+    note: 二重切開・目頭切開ページの修正依頼スライド
+  - title: "4 ページ分の修正依頼スライド"
+    url: https://docs.google.com/presentation/d/1hazAIT_HQDP6l2lIqTpfTX5AwVxWlKLAumH3K7vDang/edit
+    kind: slide
+    added: 2026-10-21
+    note: 目尻切開・上まぶたのたるみ・眼瞼下垂・下まぶたのテストページの修正依頼（10/21 のチャットより）
+  - title: "二重切開・目頭切開の確認用 AUN"
+    url: https://aun.app/4expbp
+    kind: web
+    added: 2026-10-21
+    note: 木幡さんに送った確認用の AUN
+  - title: "目元のページ（本番）"
+    url: https://www.mariaclinic.jp/face_eye
+    kind: web
+    added: 2026-10-21
+    note: 10/21 に本番公開した目元の総合ページ
+  - title: "ED 愛知県版 LP（現行）"
+    url: https://aichi.ed-drug-labo.jp/
+    kind: web
+    added: 2026-10-21
+    note: 伊藤 GM のメールにある ED 愛知県版 LP。新しいドメインへの移設を川崎さんに依頼中
+  - title: "新規申込書の場所（Chat）"
+    url: https://chat.google.com/room/AAAARITHyDA/zrP1-5qwSu8/LgVr8AC0npI
+    kind: web
+    added: 2026-10-21
+    note: 「新規受注案件の報告・契約」スペースにある愛知マリアの申込書（高橋さんより）

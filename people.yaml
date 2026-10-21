@@ -60,3 +60,78 @@ people:
     org: 銀座みはら法律事務所
     contact: メール
     note: 出向契約書のリーガルチェック
+  - id: komino
+    name: 小美野 翔
+    call: 小美野さん
+    org: 社内
+    note: 営業（週次営業 MTG の主催）
+  - id: ami
+    name: 安味 真友香
+    call: 安味さん
+    org: 社内
+  - id: nomura
+    name: 野村 颯希
+    call: 野村さん
+    org: 社内
+    note: 営業
+  - id: saito
+    name: 齋藤 直樹
+    call: 齋藤さん
+    org: 社内
+    note: 営業
+  - id: maebayashi
+    name: 前林 るな
+    call: 前林さん
+    org: 社内
+    note: 営業
+  - id: odagiri
+    name: 小田桐 和真
+    call: 小田桐さん
+    org: 社内
+    note: 10/22 から育児休業
+  - id: hayashi
+    name: 林 拳進
+    call: 林さん
+    org: 社内
+    note: 営業
+  - id: mekaru
+    name: 銘苅 沙羅
+    call: 銘苅さん
+    org: 社内
+    note: 営業・LINE 運用
+  - id: tsukagoshi
+    name: 塚越 大祐
+    call: 塚越さん
+    org: 社内
+    note: 口コミ広場の運営・EC の要件整理
+  - id: iwama
+    name: 岩間 輝
+    call: 岩間さん
+    org: 社内
+    note: 愛知マリア-コンサルのスペースにいる
+  - id: ito-hikaru
+    name: 伊藤 光
+    call: 伊藤さん
+    org: 社内
+    note: 10/14 に出産。手続きの書類を返送してもらう
+  - id: takeda-eac
+    name: 武田 翔太
+    call: 武田さん
+    org: 株式会社イーエーシー
+    note: 愛知マリアのサイト移管の担当
+  - id: sato-fidocia
+    name: 佐藤 有里
+    call: 佐藤さん
+    org: 株式会社FidoCIA
+    note: 口コミ広場の代理店。請求書のやりとり
+    contact: メール
+  - id: tanabe-ouka
+    name: 田邉
+    call: 田邉さん
+    org: 旧 桜花クリニック（M5 美容クリニック渋谷）
+    contact: Google Chat
+  - id: konishi-alphanote
+    name: 小西 竜太郎
+    call: 小西さん
+    org: アルファノート
+    note: EC の決済の会社の担当。交渉は三上さんが引き継いだ

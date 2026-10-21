@@ -1,0 +1,37 @@
+date: 2026-10-21
+work: []
+candidates:
+  - text: 社長に、脱毛ブランチサイトの今月分の減額（300 円→200 円/セッション）の承認をもらう
+    project: web-aichi-maria
+  - text: 伊藤 GM に、当初の発注（/aichi/）と後からの別ドメインの要望を分けて返事する
+    project: web-aichi-maria
+  - text: 制作側に、ED 愛知県版 LP の新ドメインの取得・移植の状況を確かめる
+    project: web-aichi-maria
+  - text: 木幡先生（クリニック）に、11 月末での解約と 11 月以降の役割分担（EAC への移管）を説明する
+    project: web-aichi-maria
+  - text: 柏原さんへ、小田桐さんの育児休業取得申出書と口座情報の写しを渡す（育休は 10/22 開始）
+    project: admin-kanri
+  - text: 在籍出向の本人との出向契約書を作り、月額変更届を出す（11/1 出向開始）
+    project: admin-shukko
+  - text: 石井さん案の 10・11 月分の請求案（11 月末解約が前提）に返事する
+    project: web-aichi-maria
+  - text: 安味さんの健康診断の手続きを進める
+    project: admin-kanri
+  - text: こえどうさん（Kwin）から、社長との食事の候補日を聞く
+    project: keiei-shacho
+  - text: 山本さんの再生計画・組織体制案・営業体制案（PDF 3 点）を確かめる
+    project: kuchikomi-sogo
+filed:
+  - "web-aichi-maria: README の状態に契約まわり・ED 愛知県版 LP の経緯を足し（ChatGPT の会話より・未確認）、次の一手に 3 件を足した"
+  - "web-aichi-maria: resources/2026-10.yaml に案件管理シートを登録"
+  - "web-aichi-maria: メール 11 件・チャット 3 件・会議 1 件（10/21 EAC とのサイト移管の打ち合わせ。田中さんの宿題 2 件は候補に）"
+  - "kuchikomi-sogo: メール 1 件・チャット 9 件・会議 1 件（10/21 週次営業 MTG。田中さんの宿題は無し）"
+  - "admin-kanri: メール 3 件・チャット 4 件（FidoCIA の 9 月分請求書・小田桐さんの育休・伊藤さんの出産の手続き・安味さんの健康診断・年末年始のアナウンス）"
+  - "admin-shukko: メール 3 件（柏原さんへの社保の確認・朴弁護士への相談）"
+  - "kuchikomi-ec: チャット 2 件（決済手数料の比較・アルファノートの件を三上さんへ引き継ぎ）"
+  - "web-ouka-clinic: チャット 2 件（川崎さんの打ち合わせ報告・田邉さんとのやりとり）"
+  - "keiei-shacho: チャット 2 件（川崎さんと日報の運用・こえどうさんとの食事の件）"
+  - "web-bloom-clinic: チャット 1 件（予約完了数の突き合わせ）"
+  - "resources: web-aichi-maria に 7 件・kuchikomi-sogo に 12 件・kuchikomi-ec・web-artis-clinic・keiei-shacho に 1 件ずつ"
+  - "people.yaml: 社内の小美野さん・安味さん・野村さん・齋藤さん・前林さん・小田桐さん・林さん・銘苅さん・塚越さん・岩間さん・伊藤 光さん、EAC の武田さん、FidoCIA の佐藤さん、桜花クリニックの田邉さん、アルファノートの小西さんを足した"
+intake: 2026-10-21 16:00

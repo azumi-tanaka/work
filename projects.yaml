@@ -1,23 +1,85 @@
 projects:
-  - slug: client-aichi-maria
+  - slug: web-aichi-maria
     name: 愛知マリアクリニック
     status: active
     started: 2026-10-21
     note: サイトの改修・運用と、イーエーシーへのサイト移管。石井さんから引き継ぎ
-  - slug: kuchikomi-unei
-    name: 口コミ広場の運営
+  - slug: kuchikomi-sogo
+    name: 総合版｜事業・媒体戦略
     status: active
     started: 2026-10-21
+    note: 口コミ広場の運営と経営企画（営業体制）をまとめた
   - slug: kuchikomi-keiei
     name: 口コミ広場の経営企画
-    status: active
+    status: done
     started: 2026-10-21
-  - slug: shinki-web-consul
+    ended: 2026-10-21
+    note: kuchikomi-sogo にまとめた
+  - slug: web-jigyou
     name: Web コンサル事業の立ち上げ
     status: active
     started: 2026-10-21
     note: 医療クリニック特化の Web コンサル
-  - slug: roumu-shukko
+  - slug: admin-shukko
     name: 在籍出向の手続き
+    status: active
+    started: 2026-10-21
+  - slug: shacho-zenna-tech
+    name: 有限会社 禅那テクノロジー
+    status: active
+    started: 2026-10-21
+    note: 社長案件
+  - slug: shacho-chuo-wrestling
+    name: 中央大学レスリング部
+    status: active
+    started: 2026-10-21
+    note: 社長案件
+  - slug: shacho-bunsho
+    name: 御礼状・社長名義文書
+    status: active
+    started: 2026-10-21
+    note: 社長案件
+  - slug: shacho-sonota
+    name: その他法人・社外案件
+    status: active
+    started: 2026-10-21
+    note: 社長案件
+  - slug: kuchikomi-mens
+    name: メンズ版｜口コミ広場
+    status: active
+    started: 2026-10-21
+  - slug: kuchikomi-ec
+    name: EC｜口コミ広場
+    status: active
+    started: 2026-10-21
+  - slug: kuchikomi-salon
+    name: サロン版｜口コミ広場
+    status: active
+    started: 2026-10-21
+  - slug: keiei-shacho
+    name: 社長依頼・相談
+    status: active
+    started: 2026-10-21
+    note: 経営推進。会社の仕事として社長から頼まれた件と、社長への日次報告
+  - slug: keiei-mikami
+    name: 三上さん｜経営推進
+    status: active
+    started: 2026-10-21
+    note: 経営推進
+  - slug: admin-kanri
+    name: 管理部業務
+    status: active
+    started: 2026-10-21
+    note: 請求・支払い、通帳のコピー、毎月の請求書の格納
+  - slug: web-ouka-clinic
+    name: 桜花クリニック
+    status: active
+    started: 2026-10-21
+  - slug: web-bloom-clinic
+    name: ブルームクリニック
+    status: active
+    started: 2026-10-21
+  - slug: web-artis-clinic
+    name: アーティスクリニック
     status: active
     started: 2026-10-21
