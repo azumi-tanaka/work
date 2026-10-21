@@ -1,0 +1,4 @@
+# 雛形（member-work）の変更を、メンバーの repo へ git pull で取り込むときの扱い。
+# README.md は /setup が本人向けに書き換えるので、両方で変わっていたら本人の版を残す。
+# 効くのは、取り込むときに -c merge.ours.driver=true を付けたときだけ（雛形の README「雛形の変更をメンバーの repo に届ける」）。
+README.md merge=ours

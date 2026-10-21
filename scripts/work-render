@@ -1,0 +1,3 @@
+#!/bin/sh
+# work-render — scripts/render.js を呼ぶ。repo のルートから ./scripts/work-render で呼ぶ（使い方は render.js の先頭）
+exec node "$(dirname "$0")/render.js" "$@"

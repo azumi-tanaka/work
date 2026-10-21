@@ -1,0 +1,14 @@
+#!/bin/sh
+# work-hook-prompt — 本人が何か送るたびに（.claude/settings.json の UserPromptSubmit の hook）、
+# 「新しい事実が分かったら、記録係（knowledge-recorder）に渡す」を Claude に思い出させる。
+#
+# UserPromptSubmit の hook が標準出力に書いた文は、Claude にだけ渡る（本人の画面には出ない）。
+# 本人が送るたびに 1 回だけ流れ、Claude の返事から hook がまた呼ばれることは無いので、繰り返して止まらなくなることはない。
+# 送られてきた中身（標準入力の JSON）は読まずに捨てる。規約は RULES.md の「会話で分かったことの反映」。
+
+cat >/dev/null 2>&1
+
+cat <<'EOF'
+work repo の決まり（RULES.md「会話で分かったことの反映」）: 本人のこの発言で、記録に無い新しい事実（相手・期日・決まったこと・状態の変化・やるべきこと）が分かったら、返事とは別に knowledge-recorder エージェントへバックグラウンドで渡す（終わりを待たずに、本人との会話を続ける）。渡すのは、事実・出どころ（本人の発言の要点）・関係しそうなプロジェクトの slug だけ。無ければ何もしない。反映したことは毎回の返事には書かず、区切りのよいところか daily の確認でまとめて伝える。
+EOF
+exit 0

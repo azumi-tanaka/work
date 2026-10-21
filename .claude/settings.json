@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./scripts/work-render:*)",
+      "Bash(./scripts/work-lint:*)"
+    ]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR\"/scripts/work-hook-prompt",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+.DS_Store
+.env
+.env.*
+_tmp_copy.txt
+_tmp_message.md

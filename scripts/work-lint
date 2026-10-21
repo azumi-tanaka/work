@@ -1,0 +1,3 @@
+#!/bin/sh
+# work-lint — scripts/lint.js を呼ぶ。repo のルートから ./scripts/work-lint で呼ぶ（使い方は lint.js の先頭）
+exec node "$(dirname "$0")/lint.js" "$@"
